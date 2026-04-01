@@ -3,7 +3,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "SupaQuest",
-  description: "A text-based MMORPG for developers learning Supabase",
+  description: "A text-based MMORPG for developers",
 }
 
 export default function RootLayout({
