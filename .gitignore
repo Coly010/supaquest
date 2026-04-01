@@ -1,0 +1,11 @@
+# Next.js
+.next/
+node_modules/
+
+# Test artifacts
+e2e/.auth/
+playwright-report/
+test-results/
+
+# Env
+.env.local
